@@ -1,4 +1,4 @@
-# SpotifyPlaylistExporter
+# Spotify Utility - Scripts
 This Project uses [Spotify Web API](https://developer.spotify.com/documentation/web-api) and [Youtube API](https://developers.google.com/youtube/v3/getting-started) to get all the songs from a *Spotify Playlist* and format their Names, Artist's Name and the youtube link for the tracks into a plain `.txt` file 
 ---
 ## 🚀 Installation
